@@ -1,0 +1,2 @@
+Student{id='929b3d36-45d8-47fe-8779-6583be32f13d', firstName='Mikolaj', lastName='Zimkowski', status=ACCEPTED}
+Student{id='ef2aafcd-04a8-46c6-884f-25b3c833b0ad', firstName='Mikolaj', lastName='Zimkowski', status=REGISTERED}

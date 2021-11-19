@@ -1,12 +1,12 @@
 package com.skni.warsztatysghv2.registration;
 
-public class Application {
+public class ApplicationForm {
 
     private final String firstName;
     private final String lastName;
     private final String email;
 
-    public Application(String firstName, String lastName, String email) {
+    public ApplicationForm(String firstName, String lastName, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
